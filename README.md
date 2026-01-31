@@ -3,7 +3,7 @@
 An AI-powered web application that analyzes resumes against job descriptions to simulate ATS scoring and provide actionable feedback using NLP and LLMs.
 
 ## 🚀 Live Demo
-🔗 https://resume-analyzer.streamlit.app
+🔗 https://resume-analyzer-fyfiufwbv33sdso62vyips.streamlit.app/
 
 ## 🔍 Features
 - PDF resume text extraction
